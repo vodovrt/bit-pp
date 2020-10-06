@@ -32,6 +32,11 @@ switch (input) {
         console.log("Nedelja");
         break;
     }
+    default: {
+        console.log("input mora da bude broj od 1 - 7")
+        break;
 
+    }
 
 }
+
